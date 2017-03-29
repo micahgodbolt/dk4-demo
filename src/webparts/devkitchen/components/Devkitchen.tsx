@@ -14,8 +14,8 @@ export default class Devkitchen extends React.Component<IDevkitchenProps, void> 
     const previewProps: IDocumentCardPreviewProps = {
         previewImages: [
         {
-            previewImageSrc: String(require('document-preview.png')),
-            iconSrc: String(require('icon-ppt.png')),
+            previewImageSrc: String(require('../document-preview.png')),
+            iconSrc: String(require('../icon-ppt.png')),
             width: 318,
             height: 196,
             accentColor: '#ce4b1f'
@@ -31,7 +31,7 @@ export default class Devkitchen extends React.Component<IDevkitchenProps, void> 
               activity='Created Feb 23, 2017'
               people={
                 [
-                    { name: 'Kat Larrson', profileImageSrc: String(require('avatar-kat.png')) }
+                    { name: 'Kat Larrson', profileImageSrc: String(require('../avatar-kat.png')) }
                 ]
               }
               />

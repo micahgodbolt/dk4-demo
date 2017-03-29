@@ -9,7 +9,7 @@ import {
 
 
 import * as strings from 'devkitchenStrings';
-import Devkitchen from './components/Devkitchen2';
+import Devkitchen from './components/Devkitchen';
 import { IDevkitchenProps } from './components/IDevkitchenProps';
 import { IDevkitchenWebPartProps } from './IDevkitchenWebPartProps';
 
