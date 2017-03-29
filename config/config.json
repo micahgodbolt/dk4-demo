@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/devkitchen/DevkitchenWebPart.js",
+      "manifest": "./src/webparts/devkitchen/DevkitchenWebPart.manifest.json",
+      "outputPath": "./dist/devkitchen.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "devkitchenStrings": "webparts/devkitchen/loc/{locale}.js"
+  }
+}

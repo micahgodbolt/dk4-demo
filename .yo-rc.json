@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.0.1-dk4.9",
+    "libraryName": "devkitchen",
+    "libraryId": "777aa5a0-aacf-4e2b-9a11-9c82b29c1aa6",
+    "framework": "react"
+  }
+}

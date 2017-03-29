@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "devkitchen-client-side-solution",
+    "id": "777aa5a0-aacf-4e2b-9a11-9c82b29c1aa6",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/devkitchen.sppkg"
+  }
+}
