@@ -20,7 +20,7 @@
     "description": { "default": "devkitchen description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "devkitchen"
+      "description": "Dev Kitchen React Demo"
     }
   }]
 }
