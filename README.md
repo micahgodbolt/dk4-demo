@@ -8,6 +8,7 @@ SharePoint web part demo with [Fabric React](https://dev.office.com/fabric)
 
 ```bash
 git clone https://github.com/micahgodbolt/dk4-demo.git
+cd dk4-demo
 npm i
 npm i -g gulp
 gulp serve
